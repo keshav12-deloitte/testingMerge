@@ -210,3 +210,40 @@ INFO    2022-04-25 17:44:11,090 [main] AdminFunctionalityTest.AdminNegativeTest1
 INFO    2022-04-25 17:44:12,806 [main] AdminFunctionalityTest.AdminNegativeTest1  - Newly Added Employee is removed/deleted Successfully
 INFO    2022-04-25 17:44:12,838 [main] AdminFunctionalityTest.AdminNegativeTest1  - Manager tab is Visible
 INFO    2022-04-25 17:44:15,048 [main] AdminFunctionalityTest.AdminNegativeTest1  - Newly Added Manager is removed Successfully
+INFO    2022-04-25 19:17:52,636 [main] AdminFunctionalityTest.AdminPositiveTest  - Chrome browser Launched successfully
+INFO    2022-04-25 19:18:01,512 [main] AdminFunctionalityTest.AdminPositiveTest  - Url is Launched Successfully
+INFO    2022-04-25 19:18:01,711 [main] AdminFunctionalityTest.AdminPositiveTest  - Login Button is Visible
+INFO    2022-04-25 19:18:02,353 [main] AdminFunctionalityTest.AdminPositiveTest  - Admin logged in Successfully
+INFO    2022-04-25 19:18:03,330 [main] AdminFunctionalityTest.AdminPositiveTest  - Add User Profile button is Visibile
+INFO    2022-04-25 19:18:15,338 [main] AdminFunctionalityTest.AdminPositiveTest  - Manager Added Successfully
+INFO    2022-04-25 19:18:26,868 [main] AdminFunctionalityTest.AdminPositiveTest  - Employee Added Successfully
+INFO    2022-04-25 19:18:27,865 [main] AdminFunctionalityTest.AdminPositiveTest  - Employee Button is Visible
+INFO    2022-04-25 19:18:29,604 [main] AdminFunctionalityTest.AdminPositiveTest  - Newly Added Employee is removed/deleted Successfully
+INFO    2022-04-25 19:18:29,634 [main] AdminFunctionalityTest.AdminPositiveTest  - Manager tab is Visible
+INFO    2022-04-25 19:18:31,903 [main] AdminFunctionalityTest.AdminPositiveTest  - Newly Added Manager is removed Successfully
+INFO    2022-04-25 19:18:50,696 [main] AdminFunctionalityTest.AdminNegativeTest1  - Chrome browser Launched successfully
+INFO    2022-04-25 19:19:00,060 [main] AdminFunctionalityTest.AdminNegativeTest1  - Url is Launched Successfully
+INFO    2022-04-25 19:19:02,257 [main] AdminFunctionalityTest.AdminNegativeTest1  - Login Button is Visible
+INFO    2022-04-25 19:19:02,890 [main] AdminFunctionalityTest.AdminNegativeTest1  - Admin logged in Successfully
+INFO    2022-04-25 19:19:03,941 [main] AdminFunctionalityTest.AdminNegativeTest1  - Add User Profile button is Visibile
+INFO    2022-04-25 19:19:15,079 [main] AdminFunctionalityTest.AdminNegativeTest1  - Manager Added Successfully
+INFO    2022-04-25 19:19:26,590 [main] AdminFunctionalityTest.AdminNegativeTest1  - Employee Added Successfully
+INFO    2022-04-25 19:19:27,560 [main] AdminFunctionalityTest.AdminNegativeTest1  - Employee Button is Visible
+INFO    2022-04-25 19:19:29,305 [main] AdminFunctionalityTest.AdminNegativeTest1  - Newly Added Employee is removed/deleted Successfully
+INFO    2022-04-25 19:19:29,335 [main] AdminFunctionalityTest.AdminNegativeTest1  - Manager tab is Visible
+INFO    2022-04-25 19:19:31,460 [main] AdminFunctionalityTest.AdminNegativeTest1  - Newly Added Manager is removed Successfully
+INFO    2022-04-25 19:19:45,433 [main] AdminFunctionalityTest.AdminNegativeTest2  - Chrome browser Launched successfully
+INFO    2022-04-25 19:19:54,129 [main] AdminFunctionalityTest.AdminNegativeTest2  - Url is Launched Successfully
+INFO    2022-04-25 19:19:54,330 [main] AdminFunctionalityTest.AdminNegativeTest2  - Login Button is Visible
+INFO    2022-04-25 19:19:54,942 [main] AdminFunctionalityTest.AdminNegativeTest2  - Admin logged in Successfully
+INFO    2022-04-25 19:20:31,918 [main] AdminFunctionalityTest.AdminNegativeTest3  - Chrome browser Launched successfully
+INFO    2022-04-25 19:20:50,911 [main] AdminFunctionalityTest.AdminNegativeTest3  - Url is Launched Successfully
+INFO    2022-04-25 19:20:53,110 [main] AdminFunctionalityTest.AdminNegativeTest3  - Login Button is Visible
+INFO    2022-04-25 19:20:53,819 [main] AdminFunctionalityTest.AdminNegativeTest3  - Admin logged in Successfully
+INFO    2022-04-25 19:20:54,822 [main] AdminFunctionalityTest.AdminNegativeTest3  - Add User Profile button is Visibile
+INFO    2022-04-25 19:21:07,203 [main] AdminFunctionalityTest.AdminNegativeTest3  - Manager Added Successfully
+INFO    2022-04-25 19:21:18,728 [main] AdminFunctionalityTest.AdminNegativeTest3  - Employee Added Successfully
+INFO    2022-04-25 19:21:19,755 [main] AdminFunctionalityTest.AdminNegativeTest3  - Employee Button is Visible
+INFO    2022-04-25 19:21:21,508 [main] AdminFunctionalityTest.AdminNegativeTest3  - Newly Added Employee is removed/deleted Successfully
+INFO    2022-04-25 19:21:21,540 [main] AdminFunctionalityTest.AdminNegativeTest3  - Manager tab is Visible
+INFO    2022-04-25 19:21:23,760 [main] AdminFunctionalityTest.AdminNegativeTest3  - Newly Added Manager is removed Successfully
