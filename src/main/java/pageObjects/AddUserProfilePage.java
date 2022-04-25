@@ -87,7 +87,7 @@ public class AddUserProfilePage {
                 }
                 if (j == 4) {
                     ContactNumber = (int) cell.getNumericCellValue();
-                    //ContactNumber=cell.getStringCellValue();
+
                 }
                 if (j == 5) {
                     City = cell.getStringCellValue();
@@ -101,7 +101,13 @@ public class AddUserProfilePage {
         // Thread.sleep(3000);
         driver.findElement(addusername).sendKeys(userName);
         //  Thread.sleep(3000);
-        driver.findElement(addpassword).sendKeys(password);
+        if(rowToChoose==2){
+            driver.findElement(addpassword).sendKeys("");
+        }
+        else
+            driver.findElement(addpassword).sendKeys(password);
+
+
         //  Thread.sleep(3000);
         WebElement dropRole = driver.findElement(dropDownRole);
         Select Role = new Select(dropRole);
@@ -196,7 +202,11 @@ public class AddUserProfilePage {
         //  Thread.sleep(3000);
         driver.findElement(addusername).sendKeys(userName);
         //  Thread.sleep(3000);
-        driver.findElement(addpassword).sendKeys(password);
+        if(rowToChoose==2){
+            driver.findElement(addpassword).sendKeys("");
+        }
+        else
+            driver.findElement(addpassword).sendKeys(password);
         // Thread.sleep(3000);
         WebElement dropRole = driver.findElement(dropDownRole);
         Select Role = new Select(dropRole);
